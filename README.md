@@ -56,6 +56,10 @@ Dentro deste padrão existem dois tipos:
 
 Suas caracteristas e para melhor leitura, vou disponibilizar os dois arquivos em pdf no qual foram minhas bases nesse projeto.
 
+[Manual do BR Code.pdf](https://github.com/alexandremulina/brqr/blob/master/Manual%20do%20BR%20Code.pdf)
+
+[Anexo I - Padrões para Iniciação do PIX.pdf](https://github.com/alexandremulina/brqr/blob/master/Anexo%20I%20-%20Padr%C3%B5es%20para%20Inicia%C3%A7%C3%A3o%20do%20PIX.pdf)
+
 # Objetivo
 
 Meu principal objetivo aqui foi recolher todas as informações dentro do BR CODE, incialmente meu pensamento era fazer uma diferença entre eles e é algo que pode ser feito furutamente.Porém de inicio, conseguir extrair informaçoes tanto de um QR Dinâmico quanto um QR Estático me pareceu mais lógico e efetivo.
