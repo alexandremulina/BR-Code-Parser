@@ -106,12 +106,18 @@ print(QR(data).CRC_value)
 Sei que não fui muito criativo com as variaveis,porém, tudo é sempre mutavel.
 
 
-PS:** Valor retornado é uma string** , por agora não vi o motivo de converter os valores numéricos recebidos.
+PS: **Valor retornado é uma string** , por agora não vi o motivo de converter os valores numéricos recebidos.
 
 # Onde podemos melhorar?
 
-Esse é uma parte especial, se você teve curiosidade em ler a documentação base para esse projeto, verá que apenas foi disponibilizado as característas de QRCode dinâmico e estático do **recebedor**, e alguns informaçoes não ficaram tão claras diante de que mudanças ainda podem ser implementadas, e caso tenha alguma documentação a agregar, isso será muito util.
+Esse é uma parte especial, se você teve curiosidade em ler a documentação base para esse projeto, verá que apenas foi disponibilizado as característas de QRCode dinâmico e estático gerado pelo **recebedor**, e alguns informaçoes não ficaram tão claras diante de que mudanças ainda podem ser implementadas, e caso tenha alguma documentação a agregar, isso será muito util.
 
 A maior dificuldade está na possibilidade de mutação do QRCode dinâmico, dentro da documentação foram fornecidos dois tipos distintos cada um com suas características.
 
-A linha 26 (Marchant Account Information) , para mim ela é a parte mais importante do QRCode, e com isso eu usei um modo diferente de armazenamento 
+A linha 26 (Marchant Account Information) , para mim ela é a parte mais importante do QRCode, e com isso eu usei um modo diferente de armazenamento.Pensei em mudar mas por agora deixei desta maneira.
+
+Novamente na linha 26, existe uma diferença entre os dois QRCodes dinâmicos, em um deles é enviado a **CHAVE PIX** , e no outro é fornecido mais informaçoes, como instituição, conta, agência e etc. Assumi que a partir que o **ID 21** que é referente a instituição financeira, a partir disso, consequentimente as informaçoes de Tipo de Conta, Agência, e Conta serão necessariamente informadas( algo no qual pensei em alterar).
+
+A principal alteração no qual pensei em fazer é detectar se é um QRCode valido para os padrões do BR CODE, mas de inicio achei que o mais importante era conseguir extrair todas as informações existentes dentro de QRCode com padrão BR CODE. Com certeza isso será algo a ser alterado com o tempo.
+
+
