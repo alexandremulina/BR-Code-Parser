@@ -106,6 +106,35 @@ print(QR(data).UT2_GUI_value)
 print(QR(data).UT2_OUT_value)
 print(QR(data).CRC_value)
 ```
+```01
+Não Informado
+12345678901234
+BR.GOV.BCB.PIX
+66756C616E6F32303139406578616D706C652E636F6D
+Não Informado
+Não Informado
+Não Informado
+Não Informado
+BR.COM.OUTRO
+0123456789
+0000
+986
+123.45
+BR
+NOMEDORECEBEDOR
+BRASILIA
+70074900
+RP12345678-2019
+BR.GOV.BCB.BRCODE
+1.0.0
+BR.GOV.BCB.PIX
+PADRAO.URL.PIX/0123ABCD
+BR.COM.OUTRO
+0123.ABCD.3456.WXYZ
+EB76
+[Finished in 0.5s]
+```
+
 
 Sei que não fui muito criativo com as variaveis :D, porém, tudo é sempre mutavel.
 
