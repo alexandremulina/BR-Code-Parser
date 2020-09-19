@@ -27,12 +27,12 @@ data = d[0].data.decode('ascii')
 ```
 
 
-#Caracteristicas do BR CODE
+# Caracteristicas do BR CODE
 
 Estrutura comum de um BR CODE
-![Alt text](C:/Users/Sergio/Desktop/TabelaPadrão.png?raw=true "Tabela")
+![](https://github.com/alexandremulina/brqr/blob/master/TabelaPradr%C3%A3o.jpg?raw=true)
 
 
-#Objetivo
+# Objetivo
 
 Meu principal objetivo aqui foi recolher as informações dentro do QRCode,incialmente pensei em fazer uma diferença entre o
