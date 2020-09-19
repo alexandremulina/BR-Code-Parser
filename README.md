@@ -71,7 +71,7 @@ from brqr import QR
 
 
 
-d = decode(Image.open('C:/Users/alexa/Documents/qrcode/qrcode.png'))
+d = decode(Image.open('C:/.../qrcode.png'))
 data = d[0].data.decode('ascii')
 
 
