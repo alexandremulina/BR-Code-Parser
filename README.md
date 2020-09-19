@@ -118,7 +118,7 @@ Esse é uma parte especial, se você teve curiosidade em ler a documentação ba
 
 A maior dificuldade está na possibilidade de mutação do QRCode dinâmico, dentro da documentação foram fornecidos dois tipos distintos cada um com suas características.
 
-A linha 26 (Marchant Account Information) , para mim ela é a parte mais importante do QRCode, e com isso eu usei um modo diferente de armazenamento.Pensei em mudar mas por agora deixei desta maneira.
+Linha 26 (Marchant Account Information) , para mim ela é a parte mais importante do QRCode, e com isso eu usei um modo diferente de armazenamento. Pensei em mudar mas por agora deixei desta maneira.
 
 Novamente na linha 26, existe uma diferença entre os dois QRCodes dinâmicos, em um deles é enviado a **CHAVE PIX** , e no outro é fornecido mais informaçoes, como instituição, conta, agência e etc. Assumi que a partir que o **ID 21** que é referente a instituição financeira, a partir disso, consequentimente as informaçoes de Tipo de Conta, Agência, e Conta serão necessariamente informadas( algo no qual pensei em alterar).
 
