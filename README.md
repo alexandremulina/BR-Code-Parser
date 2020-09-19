@@ -36,7 +36,11 @@ Acima temos a estrutura comum de um BR CODE
 
 Dentro deste padrão existem dois tipos:
 
-⦁	QR Code Estático 
+⦁	**QR Code Estático**
+
+
+![](https://github.com/alexandremulina/brqr/blob/master/QREstatico.jpg?raw=true)
+![](https://github.com/alexandremulina/brqr/blob/master/QREstatico2.jpg?raw=true)
 
 ⦁	QR Code Dinâmico
 
