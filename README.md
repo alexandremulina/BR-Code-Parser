@@ -62,7 +62,7 @@ Suas caracteristas e para melhor leitura, vou disponibilizar os dois arquivos em
 
 # Objetivo
 
-Meu principal objetivo aqui foi recolher todas as informações dentro do BR CODE,previamente o objetivo era fazer um codigo no qual fosse identificar uma diferença entre o dinâmico e o estático,mas deixo isso para o futuro.De inicio, conseguir extrair informaçoes tanto de um QR Dinâmico quanto um QR Estático me pareceu mais lógico e efetivo.
+Meu principal objetivo aqui foi recolher todas as informações dentro do BR CODE,previamente o objetivo era fazer um codigo no qual fosse identificar uma diferença entre o dinâmico e o estático,mas deixo isso para o futuro.De início, conseguir extrair informaçoes tanto de um QR Dinâmico quanto um QR Estático me pareceu mais lógico e efetivo.
 
 # Como Usar
 
