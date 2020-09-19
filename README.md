@@ -29,8 +29,17 @@ data = d[0].data.decode('ascii')
 
 # Caracteristicas do BR CODE
 
-Estrutura comum de um BR CODE
 ![](https://github.com/alexandremulina/brqr/blob/master/TabelaPradr%C3%A3o.jpg?raw=true)
+
+Acima temos a estrutura comum de um BR CODE
+
+
+Dentro deste padrão existem dois tipos:
+
+⦁	QR Code Estático 
+
+⦁	QR Code Dinâmico
+
 
 
 # Objetivo
