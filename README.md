@@ -23,7 +23,7 @@ from PIL import Image
 import brqr
 from brqr import QR
 
-d = decode(Image.open('C:/Users/alexa/Documents/qrcode/qrcode3.png'))
+d = decode(Image.open('C:/...qrcode.png'))
 data = d[0].data.decode('ascii')
 ```
 
