@@ -10,7 +10,7 @@ Ao unificar códigos QR, o Banco Central procurou facilitar a iniciação de uma
 
 Primeiramente voce preciara extrair o "data" do seu QRCode, e para isso utilizei duas bibliotecas, que são:
 
-⦁	Pillow                                                                                                                                                                     .
+⦁	Pillow                                                                                                                                                                                                                                                                              .
 ⦁	pyzbar
 
 
