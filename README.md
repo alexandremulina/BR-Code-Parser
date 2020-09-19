@@ -39,13 +39,26 @@ Dentro deste padrão existem dois tipos:
 ⦁	**QR Code Estático**
 
 
+
 ![](https://github.com/alexandremulina/brqr/blob/master/QREstatico.jpg?raw=true)
 ![](https://github.com/alexandremulina/brqr/blob/master/QREstatico2.jpg?raw=true)
 
-⦁	QR Code Dinâmico
+⦁ **QR Code Dinâmico**
+
+
+![](https://github.com/alexandremulina/brqr/blob/master/QRDinamico1.jpg?raw=true)
+![](https://github.com/alexandremulina/brqr/blob/master/QRDinamico2.jpg?raw=true)
+![](https://github.com/alexandremulina/brqr/blob/master/QRDinamico3.jpg?raw=true)
+![](https://github.com/alexandremulina/brqr/blob/master/QRDinamico4.jpg?raw=true)
+![](https://github.com/alexandremulina/brqr/blob/master/QRDinamico5.jpg?raw=true)
+
 
 
 
 # Objetivo
 
-Meu principal objetivo aqui foi recolher as informações dentro do QRCode,incialmente pensei em fazer uma diferença entre o
+Meu principal objetivo aqui foi recolher todas as informações dentro do BR CODE, incialmente meu pensamento era fazer uma diferença entre eles e é algo que pode ser feito furutamente.Porém de inicio, conseguir extrair informaçoes tanto de um QR Dinâmico quanto um QR Estático me pareceu mais lógico e efetivo.
+
+# Como Usar
+
+
