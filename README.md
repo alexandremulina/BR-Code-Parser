@@ -16,8 +16,7 @@ Primeiramente voce preciara extrair o "data" do seu QRCode, e para isso utilizei
 
 
 Vou deixar aqui um exemplo de como estou extraindo meu Data do QRCode. Lmebrando que existem outras formas de o fazer.
-
-'''
+```
 from pyzbar.pyzbar import decode
 from PIL import Image
 
@@ -26,7 +25,7 @@ from brqr import QR
 
 d = decode(Image.open('C:/Users/alexa/Documents/qrcode/qrcode3.png'))
 data = d[0].data.decode('ascii')
-'''
+```
 
 
 
