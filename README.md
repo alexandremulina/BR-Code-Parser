@@ -3,7 +3,7 @@ Ao unificar códigos QR, o Banco Central procurou facilitar a iniciação de uma
 
 
 
-
+![](https://i.pinimg.com/originals/e4/af/9f/e4af9f0025a8ce68bee2cf5a1360a501.gif)
 
 # Vamos do inicio...
 
