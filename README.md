@@ -106,7 +106,8 @@ print(QR(data).UT2_GUI_value)
 print(QR(data).UT2_OUT_value)
 print(QR(data).CRC_value)
 ```
-```01
+```
+01
 Não Informado
 12345678901234
 BR.GOV.BCB.PIX
@@ -132,7 +133,7 @@ PADRAO.URL.PIX/0123ABCD
 BR.COM.OUTRO
 0123.ABCD.3456.WXYZ
 EB76
-[Finished in 0.5s]
+[Finished in 1.0s]
 ```
 
 
