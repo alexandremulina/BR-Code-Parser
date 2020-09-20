@@ -151,6 +151,6 @@ Linha 26 (Marchant Account Information) , para mim ela é a parte mais important
 
 Novamente na linha 26, existe uma diferença entre os dois QRCodes dinâmicos, em um deles é enviado a **CHAVE PIX** , e no outro é fornecido mais informaçoes, como instituição, conta, agência e etc. Assumi que a partir do **ID 21** que é referente a instituição financeira, as informaçoes abaixo como, **Tipo de Conta, Agência, e Conta** serão necessariamente informadas( algo no qual pensei em alterar).
 
-A principal alteração no qual pensei em fazer é detectar se é um QRCode valido para os padrões do BR CODE, mas de inicio achei que o mais importante era conseguir extrair todas as informações existentes dentro de QRCode com padrão BR CODE. Com certeza isso será algo a ser alterado com o tempo.
+A principal alteração no qual pensei em fazer é detectar se é um QRCode valido para os padrões do BR CODE, mas de início achei que o mais importante era conseguir extrair todas as informações existentes dentro de QRCode com padrão BR CODE. Com certeza isso será algo a ser alterado com o tempo.
 
 
