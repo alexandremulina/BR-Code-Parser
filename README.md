@@ -154,4 +154,10 @@ Novamente na linha 26, existe uma diferença entre os dois QRCodes dinâmicos, e
 
 A principal alteração no qual pensei em fazer é detectar se é um QRCode valido para os padrões do BR CODE, mas de início achei que o mais importante era conseguir extrair todas as informações existentes dentro de QRCode com padrão BR CODE. Com certeza isso será algo a ser alterado com o tempo.
 
+# Como instalar...
+
+
+> pip install brcode==1.2
+
+
 
