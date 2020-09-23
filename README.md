@@ -1,5 +1,5 @@
 # BRCODE
-O Banco Central anunciou a criação do BR Code, padrão único para QR Codes a ser usado para iniciar transações em pagamentos de empresas integrantes do Sistema de Pagamentos Brasileiro (SPB).O objetivo desta biblioteca é extrair todas as informações contidas no "BR CODE", mostrando meus pontos de abordagens e motivos por trás deles.
+O Banco Central anunciou a criação de um padrão único para QR Codes, a serem usados nos meios de pagamento de empresas integrantes do Sistema de Pagamentos Brasileiro (SPB).O objetivo desta biblioteca é extrair todas as informações contidas no "BR CODE", mostrando meus pontos de abordagens e motivos por trás deles.
 
 
 
