@@ -3,7 +3,7 @@ from setuptools import setup
 
 
 setup(name='brqr',
-      version='1.0',
+      version='1.21',
       description='Extração de dados BR CODE',
       url='https://github.com/alexandremulina/brqr',
       author='Hudson Brendon',
