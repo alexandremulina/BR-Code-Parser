@@ -40,25 +40,18 @@ Dentro deste padrão existem dois tipos:
 
 
 
-![](https://github.com/alexandremulina/brqr/blob/master/QREstatico.jpg?raw=true)
-![](https://github.com/alexandremulina/brqr/blob/master/QREstatico2.jpg?raw=true)
+
 
 ⦁ **QR Code Dinâmico**
 
 
-![](https://github.com/alexandremulina/brqr/blob/master/QRDinamico1.jpg?raw=true)
-![](https://github.com/alexandremulina/brqr/blob/master/QRDinamico2.jpg?raw=true)
-![](https://github.com/alexandremulina/brqr/blob/master/QRDinamico3.jpg?raw=true)
-![](https://github.com/alexandremulina/brqr/blob/master/QRDinamico4.jpg?raw=true)
-![](https://github.com/alexandremulina/brqr/blob/master/QRDinamico5.jpg?raw=true)
 
 
+Para saber mais de suas caracteristas e para melhor leitura, vou disponibilizar os dois arquivos em pdf no qual foram minhas bases nesse projeto.
 
-Suas caracteristas e para melhor leitura, vou disponibilizar os dois arquivos em pdf no qual foram minhas bases nesse projeto.
+[Manual do BR Code.pdf](https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento_Pix/II_ManualdePadroesparaIniciacaodoPix-versao1.pdf)
 
-[Manual do BR Code.pdf](https://github.com/alexandremulina/brqr/blob/master/Manual%20do%20BR%20Code.pdf)
 
-[Anexo I - Padrões para Iniciação do PIX.pdf](https://github.com/alexandremulina/brqr/blob/master/Anexo%20I%20-%20Padr%C3%B5es%20para%20Inicia%C3%A7%C3%A3o%20do%20PIX.pdf)
 
 # Objetivo
 
