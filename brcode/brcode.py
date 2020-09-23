@@ -87,9 +87,9 @@ class QR():
 			self.MAI_OUTRO_IDCONTA_value = 'Não Informado'
 			self.MAI_OUTRO_GUI_value = 'Não Informado'
 		if Data3[:2] == '52':
-			Data3, self.MCC_value = Shorten(Data3)
+			Data3, self.MCC = Shorten(Data3)
 		else:
-			self.MCC_value = 'Não Informado'
+			self.MCC = 'Não Informado'
 		
 		if Data3[:2] =='53':
 			Data3, self.TC_value = Shorten(Data3)
