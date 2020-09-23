@@ -47,7 +47,7 @@ Dentro deste padrão existem dois tipos:
 
 
 
-Para saber mais de suas caracteristas e para melhor leitura, vou disponibilizar os dois arquivos em pdf no qual foram minhas bases nesse projeto.
+Para saber mais de suas caracteristas e para melhor leitura, vou disponibilizar o arquivo em pdf que foi  minha bases nesse projeto.
 
 [Manual do BR Code.pdf](https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Regulamento_Pix/II_ManualdePadroesparaIniciacaodoPix-versao1.pdf)
 
