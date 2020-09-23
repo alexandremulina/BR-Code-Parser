@@ -1,5 +1,5 @@
 # BRCODE
-Ao unificar códigos QR, o Banco Central procurou facilitar a iniciação de uma transação de pagamento.O objetivo desta biblioteca é extrair todas as informações contidas no "BR CODE".Meu Objetivo aqui é extrair todas as informaçoes existentes neste padrão de QRCode, mostrando meus pontos de abordagens e motivos por tras deles.
+O Banco Central anunciou a criação do BR Code, padrão único para QR Codes a ser usado para iniciar transações em pagamentos de empresas integrantes do Sistema de Pagamentos Brasileiro (SPB).O objetivo desta biblioteca é extrair todas as informações contidas no "BR CODE", mostrando meus pontos de abordagens e motivos por trás deles.
 
 
 
