@@ -153,7 +153,7 @@ A principal alteração no qual pensei em fazer é detectar se é um QRCode vali
 # Como instalar...
 
 
-> pip install brcode==1.2
+> pip install brqr==1.21
 
 
 
