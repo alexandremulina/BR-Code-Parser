@@ -133,7 +133,6 @@ EB76
 ```
 
 
-Sei que não fui muito criativo com as variaveis :D, porém, tudo é sempre mutavel.
 
 
 PS: **Valor retornado é uma string** , por agora não vi o motivo de converter os valores numéricos recebidos.
