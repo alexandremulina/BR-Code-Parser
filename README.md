@@ -135,23 +135,6 @@ EB76
 
 
 
-PS: **Valor retornado é uma string** , por agora não vi o motivo de converter os valores numéricos recebidos.
-
-# Onde podemos melhorar?
-
-Esse é uma parte especial, se você teve curiosidade em ler a documentação base para esse projeto, verá que apenas foi disponibilizado as característas de QRCode dinâmico e estático gerado pelo **recebedor**, e alguns informaçoes não ficaram tão claras diante de que mudanças ainda podem ser implementadas, e caso tenha alguma documentação a agregar, isso será muito util.
-
-A maior dificuldade está na possibilidade de mutação do QRCode dinâmico, dentro da documentação foram fornecidos dois tipos distintos cada um com suas características.
-
-Linha 26 (Marchant Account Information) , para mim ela é a parte mais importante do QRCode, e com isso eu usei um modo diferente de armazenamento. Pensei em mudar mas por agora deixei desta maneira.
-
-Novamente na linha 26, existe uma diferença entre os dois QRCodes dinâmicos, em um deles é enviado a **CHAVE PIX** , e no outro é fornecido mais informaçoes, como instituição, conta, agência e etc. Assumi que a partir do **ID 21** que é referente a instituição financeira, as informaçoes abaixo como, **Tipo de Conta, Agência, e Conta** serão necessariamente informadas( algo no qual pensei em alterar).
-
-A principal alteração no qual pensei em fazer é detectar se é um QRCode valido para os padrões do BR CODE, mas de início achei que o mais importante era conseguir extrair todas as informações existentes dentro de QRCode com padrão BR CODE. Com certeza isso será algo a ser alterado com o tempo.
-
-# Como instalar...
-
-
 > pip install brqr==1.21
 
 
