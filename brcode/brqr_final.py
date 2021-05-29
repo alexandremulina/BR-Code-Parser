@@ -6,9 +6,9 @@ from brqr import QR
 
 d = decode(Image.open('C:/Users/alexa/OneDrive/Documentos/qrcode.png'))
 df = pd.DataFrame(d)
-pd.set_option('display.max_rows', None)
-pd.set_option('display.max_columns', None)
-pd.set_option('max_colwidth', None)
+#pd.set_option('display.max_rows', None)
+#pd.set_option('display.max_columns', None)
+#pd.set_option('max_colwidth', None)
 data = d[0].data.decode('ascii')
 
 
